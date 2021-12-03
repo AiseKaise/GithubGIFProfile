@@ -9,7 +9,7 @@ var typewriter = new Typewriter(app, {
 typewriter.typeString('Hello FOlks!')
     .pauseFor(1)
     .deleteAll()
-    .typeString('My name is <strong>David</strong>')
+    .typeString('My name is <strong>Deepraj</strong>')
     .pauseFor(100)
     .deleteAll()
     .typeString('<strong>Welcome to my github profile</strong>')
